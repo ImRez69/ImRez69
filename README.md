@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nextjs,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nextjs,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -97,11 +97,6 @@ A responsive admin dashboard featuring a **generic, reusable `Table` component**
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImRez69&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRez69&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImRez69&theme=tokyonight&hide_border=true" />
 
