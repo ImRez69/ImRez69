@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There,%20I'm%20Alireza%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20Intern&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/ImRez69">
+<a href="https://github.com/alir3za-samadi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=Self-taught+Front-End+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Tailwind+CSS;Currently+migrating+a+SaaS+Dashboard+to+TypeScript;Learning+Next.js+%7C+Always+exploring+new+tech" alt="Typing SVG" />
 </a>
 
@@ -66,10 +66,10 @@
 
 A responsive admin dashboard featuring a **generic, reusable `Table` component** powered by TypeScript generics, a **Context API** based light/dark theme system with zero flash-of-wrong-theme on load, and in-app **syntax-highlighted code previews**.
 
-<a href="https://github.com/ImRez69/SaaS-Dashboard/tree/typescript">
+<a href="https://github.com/alir3za-samadi/SaaS-Dashboard/tree/typescript">
   <img src="https://img.shields.io/badge/TypeScript%20Branch-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
-<a href="https://github.com/ImRez69/SaaS-Dashboard/tree/main">
+<a href="https://github.com/alir3za-samadi/SaaS-Dashboard/tree/main">
   <img src="https://img.shields.io/badge/JavaScript%20Branch-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
 <a href="https://saas-dashboard.freedev.app/">
@@ -86,9 +86,9 @@ A responsive admin dashboard featuring a **generic, reusable `Table` component**
 
 | Project | Description | Stack |
 |---|---|---|
-| [To Do List](https://github.com/ImRez69/To-Do-List) | Task manager with LocalStorage persistence & theme toggle | HTML · CSS · JS |
-| [Calculator](https://github.com/ImRez69/Simple-Calculator) | Basic arithmetic calculator with theme toggle | HTML · CSS · JS |
-| [Guess Number](https://github.com/ImRez69/Guesse-Number) | Minimal number-guessing logic game | HTML · CSS · JS |
+| [To Do List](https://github.com/alir3za-samadi/To-Do-List) | Task manager with LocalStorage persistence & theme toggle | HTML · CSS · JS |
+| [Calculator](https://github.com/alir3za-samadi/Simple-Calculator) | Basic arithmetic calculator with theme toggle | HTML · CSS · JS |
+| [Guess Number](https://github.com/alir3za-samadi/Guesse-Number) | Minimal number-guessing logic game | HTML · CSS · JS |
 
 </details>
 
@@ -98,7 +98,7 @@ A responsive admin dashboard featuring a **generic, reusable `Table` component**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImRez69&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alir3za-samadi&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -108,7 +108,7 @@ A responsive admin dashboard featuring a **generic, reusable `Table` component**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ImRez69/ImRez69/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/alir3za-samadi/alir3za-samadi/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
